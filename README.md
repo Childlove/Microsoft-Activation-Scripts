@@ -80,5 +80,5 @@
 
 ---
 
-Latest Version: 3.9  
-Release date: 19-Nov-2025
+Latest Version: 3.11  
+Release date: 02-May-2026
